@@ -1,6 +1,6 @@
 #! /usr/bin/env node
 
-import inquirer from "inquirer"
+import inquirer from "inquirer";
 
 // 1: Computer will generate a random number:
 
